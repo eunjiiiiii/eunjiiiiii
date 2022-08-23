@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Eunji%20&fontSize=90)
+
 
 - 🔭 I’m currently working on chatbot
 - 🌱 I’m currently learning AI, DeepLearning, Natural Language Processing, Data science, Data analysis, Backend
@@ -9,7 +11,7 @@
 - ⚡ Fun fact: ...
 --->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 
   <div align=center>
