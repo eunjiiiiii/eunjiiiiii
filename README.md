@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ej2747@dgu.ac.kr[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ej2747@dgu.ac.kr)](mailto:snugyun01@gmail.com), ej2747@naver.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+--->
 
 
   <div align=center>
