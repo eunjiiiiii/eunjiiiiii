@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Eunji%20&fontSize=90)
 
 
+- :school: Student at Dongguk Univ.
 - 🔭 I’m currently working on chatbot
 - 🌱 I’m currently learning AI, DeepLearning, Natural Language Processing, Data science, Data analysis, Backend
 - 👯 I’m looking to collaborate on ...
