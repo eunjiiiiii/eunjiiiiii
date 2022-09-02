@@ -2,7 +2,7 @@
 
 
 - :school: Student at Dongguk Univ.
-- 🔭 I’m currently working on chatbot
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning AI, DeepLearning, Natural Language Processing, Data science, Data analysis, Backend
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
